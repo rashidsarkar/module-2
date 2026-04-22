@@ -11,4 +11,11 @@
 # with open('./sample_data/test2.txt','a') as file:
     # file.writelines(strings)
 #               file pointer module start 
+# with open('./sample_data/test.txt','r+') as file:
+#     print(file.read(5))
+#     file.truncate()
+#     file.seek(0)
+#     print(file.read())
+
+ 
 
